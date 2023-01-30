@@ -1,0 +1,8 @@
+/* Write your code here. */
+
+.list-item {
+  width: 32%;
+  list-style-type: none;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
